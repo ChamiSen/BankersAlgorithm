@@ -1,0 +1,3 @@
+C:/Users/7319139/Documents/CSC458/BankersAlgo/cmake-build-debug/CMakeFiles/BankersAlgo.dir
+C:/Users/7319139/Documents/CSC458/BankersAlgo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/7319139/Documents/CSC458/BankersAlgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
